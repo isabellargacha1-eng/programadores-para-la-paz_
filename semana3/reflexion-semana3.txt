@@ -1,0 +1,11 @@
+Mantener un registro de cambios en los proyectos de software es fundamental 
+para organizar el trabajo de desarrollo. Herramientas como Git permiten guardar 
+el historial de modificaciones realizadas en el código. Esto facilita identificar 
+quién hizo cada cambio y en qué momento se realizó. Además, ayuda a corregir 
+errores al poder regresar a versiones anteriores cuando sea necesario. 
+También mejora la colaboración entre varios desarrolladores que trabajan en un 
+mismo proyecto. Gracias al control de versiones, se evita la pérdida de 
+información importante. Git permite comparar cambios y revisar el progreso del 
+proyecto de manera ordenada. Asimismo, contribuye a mantener la calidad y 
+estabilidad del software. Por estas razones, el uso de herramientas de control de 
+versiones es una práctica esencial en el desarrollo de software moderno.
